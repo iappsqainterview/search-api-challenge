@@ -6,5 +6,5 @@
 *    Write Java or Scala automation that will make requests to this API:<br>
      Include TestNG, JUnit, or ScalaTest classes with validations for the documented functional test cases
      
-     The test plan and automation should be provided back in a zipped file.
+     The test plan and automation should be provided back in a zipped file.<br>
      Please do not fork this repository.
