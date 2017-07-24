@@ -1,6 +1,6 @@
 # search-api-challenge
 
-*    Write a test plan for the documented [iTunes Search API](https://github.com/iappsqainterview/searchAPI/blob/master/API.md)
+*    Write a test plan for the documented: [iTunes Search API](https://github.com/iappsqainterview/searchAPI/blob/master/API.md)
   
 
 *    Write Java or Scala automation that will make requests to this API:<br>
