@@ -7,3 +7,4 @@
      Include TestNG, JUnit, or ScalaTest classes with validations for the documented functional test cases
      
      The test plan and automation should be provided back in a zipped file.
+     Please do not fork this repository.
