@@ -17,9 +17,13 @@ A fully-qualified URL to search must have the following format:
 
 Where [parameterkeyvalue] can be one or more parameter key and value pairs indicating the details of your query.
 
-To construct a parameter key and value pair, you must concatenate each parameter key with an equal sign (=) and a value string. For example: key1=value1. To create a string of parameter key and value pairs, you must concatenate each pair using an ampersand (&). For example:
+To construct a parameter key and value pair, you must concatenate each parameter key with an equal sign (=) and a value string. 
 
-key1=value1&key2=value2&key3=value3
+For example: `key1=value1` 
+
+To create a string of parameter key and value pairs, you must concatenate each pair using an ampersand (&). 
+
+For example: `key1=value1&key2=value2&key3=value3`
 
 
 
