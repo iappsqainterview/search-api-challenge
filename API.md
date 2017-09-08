@@ -74,7 +74,7 @@ Note: URL encoding replaces spaces with the plus (+) character and all character
 Example Response
 -------------
 
-Here is an example of a response for a request when 'media=music' :
+Here is an example of a response for a request with the parameter `media=music` :
 
 ```json
 {
