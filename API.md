@@ -64,8 +64,8 @@ Note: URL encoding replaces spaces with the plus (+) character and all character
     <tr>
         <td>limit</td>
         <td>The number of search results you want the iTunes Store to return.<br><br> 
-            For example : 25<br>
-            The default is 50</td>
+            For example : `25`<br>
+            The default is `50`</td>
         <td>N</td>
         <td>1 to 200</td>
     </tr>
