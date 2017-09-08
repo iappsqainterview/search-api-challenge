@@ -113,4 +113,4 @@ Here is an example of a response for a request with the parameter `media=music` 
 }
 ```
 
-All fields shown are expected for all responses of this type, however there may be additional fields in a response.
+All key and value types shown are expected for all responses of this type. However, there may be additional keys in a response.
