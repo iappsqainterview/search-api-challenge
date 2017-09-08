@@ -13,7 +13,7 @@ Searching
 
 A fully-qualified URL to search must have the following format:
 
-https://itunes.apple.com/search?[parameterkeyvalue]
+`https://itunes.apple.com/search?[parameterkeyvalue]`
 
 Where [parameterkeyvalue] can be one or more parameter key and value pairs indicating the details of your query.
 
