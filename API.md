@@ -70,3 +70,47 @@ Note: URL encoding replaces spaces with the plus (+) character and all character
         <td>1 to 200</td>
     </tr>
 </table>
+
+Example Response
+-------------
+
+Here is an example of a response for a request when 'media=music' :
+
+```json
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 909253,
+      "collectionId": 879273552,
+      "trackId": 879273565,
+      "artistName": "Jack Johnson",
+      "collectionName": "In Between Dreams",
+      "trackName": "Better Together",
+      "collectionCensoredName": "In Between Dreams",
+      "trackCensoredName": "Better Together",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/jack-johnson/id909253?uo=4",
+      "collectionViewUrl": "https://itunes.apple.com/us/album/better-together/id879273552?i=879273565&uo=4",
+      "trackViewUrl": "https://itunes.apple.com/us/album/better-together/id879273552?i=879273565&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music6/v4/13/22/67/1322678b-e40d-fb4d-8d9b-3268fe03b000/mzaf_8818596367816221008.plus.aac.p.m4a?accessKey=1515271290_3098706625171343788_%2Bkoi6hAC37HC1sYDu3mryzDtYS%2FaDwJaUs3dg%2FUWlH76OnJD7iNh53ouY9KEhGzYdywBuEa3riFMpcaGXYIUkguHBrKskWfSL1o4N4ime9yb0FbBiYKPRE7iXuL7bxPk6mX5YCInyNvTza0uM9okpucXb25HnNviByS5IKHWR3fHiNj3gPtQZ6hO%2Bcl2T3fgne24QsONu%2FwbOjoZUFg7pQ%3D%3D",
+      "collectionPrice": 6.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2005-03-01T08:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 15,
+      "trackNumber": 1,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Rock",
+      "isStreamable": true
+    }
+  ]
+}
+```
+
+All fields shown are expected for all responses of this type, however there may be additional fields in a response.
